@@ -3,7 +3,7 @@ import type { PluginClientContext } from "@getpaseo/plugin/client";
 // Rosé Pine for Paseo, ported from the Obsidian theme `sspaeti/obsidian_rose_pine` by Simon Späti.
 export default function contribute(client: PluginClientContext) {
 	client.addTheme({
-		id: "ros-pine",
+		id: "rose-pine",
 		name: "Rosé Pine",
 		appearance: "dark",
 		colors: {
@@ -19,7 +19,7 @@ export default function contribute(client: PluginClientContext) {
 	});
 
 	client.addTheme({
-		id: "ros-pine-light",
+		id: "rose-pine-light",
 		name: "Rosé Pine Light",
 		appearance: "light",
 		colors: {

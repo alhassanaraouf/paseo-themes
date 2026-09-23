@@ -1,11 +1,11 @@
-# paseo-ros-pine
+# paseo-rose-pine
 
 Rosé Pine for [Paseo](https://paseo.sh), ported from the Obsidian theme [`sspaeti/obsidian_rose_pine`](https://github.com/sspaeti/obsidian_rose_pine) by Simon Späti.
 
 ## Install
 
 ```bash
-paseo plugin install npm:@alhassanaraouf/paseo-ros-pine
+paseo plugin install npm:@alhassanaraouf/paseo-rose-pine
 ```
 
 ## Activate

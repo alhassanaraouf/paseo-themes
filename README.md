@@ -108,7 +108,7 @@ bun run test
 | 60 | evangelion | `@alhassanaraouf/paseo-evangelion` | #1a1a1e / #ffffff | `#2d8b62` |
 | 61 | Adwaita | `@alhassanaraouf/paseo-adwaita` | #1a1a1e / #ffffff | `#2d8b62` |
 | 62 | Aura | `@alhassanaraouf/paseo-aura` | #000000 / #d5d6db | `#bb9af7` |
-| 63 | Rosé Pine | `@alhassanaraouf/paseo-ros-pine` | #191724 / #faf4ed | `#eb6f92` |
+| 63 | Rosé Pine | `@alhassanaraouf/paseo-rose-pine` | #191724 / #faf4ed | `#eb6f92` |
 | 64 | Kanagawa | `@alhassanaraouf/paseo-kanagawa` | #1f1f28 / #f2efe9 | `#658594` |
 | 65 | Everblush | `@alhassanaraouf/paseo-everblush` | #0f1619 / #dadada | `#bab3e5` |
 | 66 | Everforest Enchanted | `@alhassanaraouf/paseo-everforest-enchanted` | #333c43 / #fffbef | `#569d79` |

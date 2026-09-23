@@ -315,7 +315,7 @@ extracted from, and extraction notes. All CSS was fetched September 2026.
 
 ## 63. Rosé Pine
 - Repo: https://github.com/sspaeti/obsidian_rose_pine (author Simon Späti, upstream modes: dark, light)
-- npm package `@alhassanaraouf/paseo-ros-pine` — dark bg #191724, light bg #faf4ed, accent #eb6f92
+- npm package `@alhassanaraouf/paseo-rose-pine` — dark bg #191724, light bg #faf4ed, accent #eb6f92
 - Extraction: direct var() resolution
 
 ## 64. Kanagawa
