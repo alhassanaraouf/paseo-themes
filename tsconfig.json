@@ -44,9 +44,6 @@
       "path": "packages/paseo-cardstock"
     },
     {
-      "path": "packages/paseo-catppuccin"
-    },
-    {
       "path": "packages/paseo-charcoal"
     },
     {
@@ -69,15 +66,6 @@
     },
     {
       "path": "packages/paseo-discordian"
-    },
-    {
-      "path": "packages/paseo-dracula-for-obsidian"
-    },
-    {
-      "path": "packages/paseo-dracula-official"
-    },
-    {
-      "path": "packages/paseo-dracula-slim"
     },
     {
       "path": "packages/paseo-dune"
@@ -182,9 +170,6 @@
       "path": "packages/paseo-obsidian-boom"
     },
     {
-      "path": "packages/paseo-obsidian-gruvbox"
-    },
-    {
       "path": "packages/paseo-obsidian-ia"
     },
     {
@@ -249,9 +234,6 @@
     },
     {
       "path": "packages/paseo-sodalite"
-    },
-    {
-      "path": "packages/paseo-solarized"
     },
     {
       "path": "packages/paseo-terminal"

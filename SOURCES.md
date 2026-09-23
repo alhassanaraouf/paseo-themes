@@ -58,11 +58,6 @@ extracted from, and extraction notes. All CSS was fetched September 2026.
 - npm package `@alhassanaraouf/paseo-shimmering-focus` — dark bg #292929, light bg #f2e5bb, accent #fe811b
 - Extraction: direct var() resolution
 
-## 12. Obsidian gruvbox
-- Repo: https://github.com/insanum/obsidian_gruvbox (author insanum, upstream modes: dark, light)
-- npm package `@alhassanaraouf/paseo-obsidian-gruvbox` — dark bg #282828, light bg #f9f5d7, accent #d65d0e
-- Extraction: direct var() resolution
-
 ## 13. Prism
 - Repo: https://github.com/damiankorcz/Prism-Theme (author damiankorcz, upstream modes: dark, light)
 - npm package `@alhassanaraouf/paseo-prism` — dark bg #481b19, light bg #fdf7f7, accent #696969
@@ -76,16 +71,6 @@ extracted from, and extraction notes. All CSS was fetched September 2026.
 ## 15. Primary
 - Repo: https://github.com/primary-theme/obsidian (author primary-theme, upstream modes: light, dark)
 - npm package `@alhassanaraouf/paseo-primary` — dark bg #2e261f, light bg #f8f5f1, accent #4e3e2d
-- Extraction: direct var() resolution
-
-## 16. Catppuccin
-- Repo: https://github.com/catppuccin/obsidian (author catppuccin, upstream modes: dark, light)
-- npm package `@alhassanaraouf/paseo-catppuccin` — dark bg #1e1e2e, light bg #eff1f5, accent #cba6f7
-- Extraction: direct var() resolution
-
-## 17. Dracula for Obsidian
-- Repo: https://github.com/jarodise/Dracula-for-Obsidian.md (author jarodise, upstream modes: dark)
-- npm package `@alhassanaraouf/paseo-dracula-for-obsidian` — dark bg #282a36, light bg #282a36, accent #ffb86c
 - Extraction: direct var() resolution
 
 ## 18. Tokyo Night
@@ -118,11 +103,6 @@ extracted from, and extraction notes. All CSS was fetched September 2026.
 - npm package `@alhassanaraouf/paseo-github-theme` — dark bg #0d1117, light bg #ffffff, accent #57a5ff
 - Extraction: direct var() resolution
 
-## 24. Solarized
-- Repo: https://github.com/harmtemolder/obsidian-solarized (author harmtemolder, upstream modes: dark, light)
-- npm package `@alhassanaraouf/paseo-solarized` — dark bg #002b36, light bg #fdf6e3, accent #2d8b62
-- Extraction: accent fell back to palette default
-
 ## 25. Notation
 - Repo: https://github.com/deathau/Notation-for-Obsidian (author deathau, upstream modes: dark, light)
 - npm package `@alhassanaraouf/paseo-notation` — dark bg #2f3437, light bg #ffffff, accent #2eaadc
@@ -141,11 +121,6 @@ extracted from, and extraction notes. All CSS was fetched September 2026.
 ## 28. Obuntu
 - Repo: https://github.com/dmytrodubinin/Obuntu-theme-for-Obsidian (author dmytrodubinin, upstream modes: dark, light)
 - npm package `@alhassanaraouf/paseo-obuntu` — dark bg #343434, light bg #ffffff, accent #df4a16
-- Extraction: direct var() resolution
-
-## 29. Dracula Official
-- Repo: https://github.com/dracula/obsidian (author dracula, upstream modes: dark)
-- npm package `@alhassanaraouf/paseo-dracula-official` — dark bg #282a36, light bg #282a36, accent #50fa7b
 - Extraction: direct var() resolution
 
 ## 30. Encore
@@ -381,11 +356,6 @@ extracted from, and extraction notes. All CSS was fetched September 2026.
 ## 76. Noctis
 - Repo: https://github.com/konnta0/obsidian-noctis-theme (author konnta0, upstream modes: dark)
 - npm package `@alhassanaraouf/paseo-noctis` — dark bg #052529, light bg #052529, accent #009999
-- Extraction: one mode cross-filled from the other
-
-## 77. Dracula Slim
-- Repo: https://github.com/blackwew/Dracula-Slim (author blackwew, upstream modes: dark)
-- npm package `@alhassanaraouf/paseo-dracula-slim` — dark bg #282a36, light bg #282a36, accent #b294bb
 - Extraction: one mode cross-filled from the other
 
 ## 78. Material Ocean

@@ -9,7 +9,7 @@ const pkgs = readdirSync(root).filter((d) => d.startsWith("paseo-"));
 
 describe("theme packages", () => {
 	it("has 100 packages", () => {
-		expect(pkgs.length).toBe(100);
+		expect(pkgs.length).toBe(94);
 	});
 
 	it("each package has required files with matching ids", () => {
@@ -41,7 +41,7 @@ describe("theme packages", () => {
 			const src = readFileSync(join(root, pkg, "index.client.ts"), "utf8");
 			all.push(...[...src.matchAll(/id:\s*"([^"]+)"/g)].map((m) => m[1]));
 		}
-		expect(all.length).toBe(200);
-		expect(new Set(all).size).toBe(200);
+		expect(all.length).toBe(188);
+		expect(new Set(all).size).toBe(188);
 	});
 });

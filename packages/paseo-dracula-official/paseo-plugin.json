@@ -1,7 +1,0 @@
-{
-	"id": "paseo-dracula-official",
-	"description": "Dracula Official theme for Paseo, ported from Obsidian.",
-	"requirements": {
-		"paseo": ">=0.8.0"
-	}
-}

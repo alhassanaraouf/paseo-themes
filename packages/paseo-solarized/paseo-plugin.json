@@ -1,7 +1,0 @@
-{
-	"id": "paseo-solarized",
-	"description": "Solarized theme for Paseo, ported from Obsidian.",
-	"requirements": {
-		"paseo": ">=0.8.0"
-	}
-}
