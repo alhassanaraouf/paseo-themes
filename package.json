@@ -1,0 +1,17 @@
+{
+  "name": "@paseo/themes",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "100 community themes for Paseo, ported from the most popular Obsidian themes",
+  "exports": {
+    ".": "./themes/index.ts",
+    "./registry": "./themes/registry.json"
+  },
+  "scripts": {
+    "build": "tsc --noEmit",
+    "test": "node --test test/"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  }
+}
