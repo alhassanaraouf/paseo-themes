@@ -1,0 +1,7 @@
+{
+	"id": "paseo-hulk",
+	"description": "Hulk theme for Paseo, ported from Obsidian.",
+	"requirements": {
+		"paseo": ">=0.8.0"
+	}
+}

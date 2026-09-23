@@ -1,15 +1,305 @@
 {
-  "compilerOptions": {
-    "target": "es2022",
-    "module": "nodnext",
-    "moduleResolution": "nodnext",
-    "strict": true,
-    "noEmit": true,
-    "allowJs": true
-  },
-  "include": [
-    "themes/**/*.ts",
-    "test/**/*.mjs",
-    "scripts/**/*.mjs"
+  "files": [],
+  "references": [
+    {
+      "path": "packages/paseo-adwaita"
+    },
+    {
+      "path": "packages/paseo-amethyst"
+    },
+    {
+      "path": "packages/paseo-anuppuccin"
+    },
+    {
+      "path": "packages/paseo-ars-magna"
+    },
+    {
+      "path": "packages/paseo-atom"
+    },
+    {
+      "path": "packages/paseo-aubade"
+    },
+    {
+      "path": "packages/paseo-aura"
+    },
+    {
+      "path": "packages/paseo-ayu"
+    },
+    {
+      "path": "packages/paseo-ayu-mirage"
+    },
+    {
+      "path": "packages/paseo-base2tone"
+    },
+    {
+      "path": "packages/paseo-baseline"
+    },
+    {
+      "path": "packages/paseo-blue-topaz"
+    },
+    {
+      "path": "packages/paseo-border"
+    },
+    {
+      "path": "packages/paseo-cardstock"
+    },
+    {
+      "path": "packages/paseo-catppuccin"
+    },
+    {
+      "path": "packages/paseo-charcoal"
+    },
+    {
+      "path": "packages/paseo-comfort-color-dark"
+    },
+    {
+      "path": "packages/paseo-cupertino"
+    },
+    {
+      "path": "packages/paseo-cyber-glow"
+    },
+    {
+      "path": "packages/paseo-cybertron"
+    },
+    {
+      "path": "packages/paseo-dark-graphite"
+    },
+    {
+      "path": "packages/paseo-dark-graphite-pie"
+    },
+    {
+      "path": "packages/paseo-discordian"
+    },
+    {
+      "path": "packages/paseo-dracula-for-obsidian"
+    },
+    {
+      "path": "packages/paseo-dracula-official"
+    },
+    {
+      "path": "packages/paseo-dracula-slim"
+    },
+    {
+      "path": "packages/paseo-dune"
+    },
+    {
+      "path": "packages/paseo-ebullientworks"
+    },
+    {
+      "path": "packages/paseo-emerald"
+    },
+    {
+      "path": "packages/paseo-encore"
+    },
+    {
+      "path": "packages/paseo-evangelion"
+    },
+    {
+      "path": "packages/paseo-everblush"
+    },
+    {
+      "path": "packages/paseo-everforest"
+    },
+    {
+      "path": "packages/paseo-everforest-enchanted"
+    },
+    {
+      "path": "packages/paseo-fancy-a-story"
+    },
+    {
+      "path": "packages/paseo-firefly"
+    },
+    {
+      "path": "packages/paseo-flexcyon"
+    },
+    {
+      "path": "packages/paseo-flexoki"
+    },
+    {
+      "path": "packages/paseo-gastown"
+    },
+    {
+      "path": "packages/paseo-gdct"
+    },
+    {
+      "path": "packages/paseo-gdct-dark"
+    },
+    {
+      "path": "packages/paseo-github-theme"
+    },
+    {
+      "path": "packages/paseo-gitsidian"
+    },
+    {
+      "path": "packages/paseo-golden-topaz"
+    },
+    {
+      "path": "packages/paseo-halcyon"
+    },
+    {
+      "path": "packages/paseo-hulk"
+    },
+    {
+      "path": "packages/paseo-its-theme"
+    },
+    {
+      "path": "packages/paseo-kanagawa"
+    },
+    {
+      "path": "packages/paseo-kanagawa-paper"
+    },
+    {
+      "path": "packages/paseo-lyt-mode"
+    },
+    {
+      "path": "packages/paseo-magicuser"
+    },
+    {
+      "path": "packages/paseo-maple"
+    },
+    {
+      "path": "packages/paseo-material-ocean"
+    },
+    {
+      "path": "packages/paseo-minimal"
+    },
+    {
+      "path": "packages/paseo-moonlight"
+    },
+    {
+      "path": "packages/paseo-nier"
+    },
+    {
+      "path": "packages/paseo-noctis"
+    },
+    {
+      "path": "packages/paseo-notation"
+    },
+    {
+      "path": "packages/paseo-obsdn-dark-rmx"
+    },
+    {
+      "path": "packages/paseo-obsidian-boom"
+    },
+    {
+      "path": "packages/paseo-obsidian-gruvbox"
+    },
+    {
+      "path": "packages/paseo-obsidian-ia"
+    },
+    {
+      "path": "packages/paseo-obsidian-nord"
+    },
+    {
+      "path": "packages/paseo-obsidianite"
+    },
+    {
+      "path": "packages/paseo-obsidianotion"
+    },
+    {
+      "path": "packages/paseo-obuntu"
+    },
+    {
+      "path": "packages/paseo-ono-sendai"
+    },
+    {
+      "path": "packages/paseo-origami"
+    },
+    {
+      "path": "packages/paseo-panic-mode"
+    },
+    {
+      "path": "packages/paseo-pink-topaz"
+    },
+    {
+      "path": "packages/paseo-pisum"
+    },
+    {
+      "path": "packages/paseo-primary"
+    },
+    {
+      "path": "packages/paseo-prism"
+    },
+    {
+      "path": "packages/paseo-red-graphite"
+    },
+    {
+      "path": "packages/paseo-retro-windows"
+    },
+    {
+      "path": "packages/paseo-retroma"
+    },
+    {
+      "path": "packages/paseo-reverie"
+    },
+    {
+      "path": "packages/paseo-ros-pine"
+    },
+    {
+      "path": "packages/paseo-royal-velvet"
+    },
+    {
+      "path": "packages/paseo-sanctum"
+    },
+    {
+      "path": "packages/paseo-shiba-inu"
+    },
+    {
+      "path": "packages/paseo-shimmering-focus"
+    },
+    {
+      "path": "packages/paseo-sodalite"
+    },
+    {
+      "path": "packages/paseo-solarized"
+    },
+    {
+      "path": "packages/paseo-terminal"
+    },
+    {
+      "path": "packages/paseo-things"
+    },
+    {
+      "path": "packages/paseo-tokyo-night"
+    },
+    {
+      "path": "packages/paseo-tokyo-night-storm"
+    },
+    {
+      "path": "packages/paseo-typewriter"
+    },
+    {
+      "path": "packages/paseo-typomagical"
+    },
+    {
+      "path": "packages/paseo-typora-vue"
+    },
+    {
+      "path": "packages/paseo-ultra-lobster"
+    },
+    {
+      "path": "packages/paseo-underwater"
+    },
+    {
+      "path": "packages/paseo-vanilla-amoled"
+    },
+    {
+      "path": "packages/paseo-vauxhall"
+    },
+    {
+      "path": "packages/paseo-velocity"
+    },
+    {
+      "path": "packages/paseo-vicious"
+    },
+    {
+      "path": "packages/paseo-wasp"
+    },
+    {
+      "path": "packages/paseo-willemstad"
+    },
+    {
+      "path": "packages/paseo-yin-and-yang"
+    }
   ]
 }

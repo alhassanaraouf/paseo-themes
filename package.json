@@ -1,17 +1,22 @@
 {
-  "name": "@paseo/themes",
+  "name": "paseo-themes",
+  "private": true,
   "version": "0.1.0",
   "type": "module",
-  "description": "100 community themes for Paseo, ported from the most popular Obsidian themes",
-  "exports": {
-    ".": "./themes/index.ts",
-    "./registry": "./themes/registry.json"
-  },
+  "description": "100 community themes for Paseo, ported from the most popular Obsidian themes. Each theme is a standalone paseo.cafe-ready plugin.",
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
-    "build": "tsc --noEmit",
-    "test": "node --test test/"
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "test": "vitest run",
+    "check": "biome check ."
   },
   "devDependencies": {
-    "typescript": "^5.6.0"
-  }
+    "@biomejs/biome": "^2.5.14",
+    "@getpaseo/plugin": "0.9.1",
+    "typescript": "^5.9.0",
+    "vitest": "^3.0.0"
+  },
+  "packageManager": "bun@1.4.2"
 }

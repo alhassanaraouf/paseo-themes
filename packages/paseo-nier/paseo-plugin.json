@@ -1,0 +1,7 @@
+{
+	"id": "paseo-nier",
+	"description": "Nier theme for Paseo, ported from Obsidian.",
+	"requirements": {
+		"paseo": ">=0.8.0"
+	}
+}

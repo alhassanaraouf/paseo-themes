@@ -1,0 +1,7 @@
+{
+	"id": "paseo-border",
+	"description": "Border theme for Paseo, ported from Obsidian.",
+	"requirements": {
+		"paseo": ">=0.8.0"
+	}
+}
