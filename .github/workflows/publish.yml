@@ -5,11 +5,7 @@ on:
     branches: [main]
     paths:
       - "packages/*/package.json"
-  workflow_dispatch:
-    inputs:
-      since:
-        description: "Git ref to diff against (defaults to the previous commit)"
-        required: false
+  workflow_dispatch: {}
 
 jobs:
   publish:
@@ -35,14 +31,19 @@ jobs:
       - run: bun run typecheck
       - run: bun run test
 
-      - name: Find packages with a changed package.json
+      - name: Find packages to publish
         id: changed
         run: |
-          before="${{ github.event.inputs.since || github.event.before }}"
-          if [ -z "$before" ] || [ "$before" = "0000000000000000000000000000000000000000" ]; then
-            before=$(git rev-parse HEAD~1 2>/dev/null || git hash-object -t tree /dev/null)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            # Manual run: consider every package, not just changed ones.
+            dirs=$(ls -d packages/paseo-*-theme)
+          else
+            before="${{ github.event.before }}"
+            if [ -z "$before" ] || [ "$before" = "0000000000000000000000000000000000000000" ]; then
+              before=$(git rev-parse HEAD~1 2>/dev/null || git hash-object -t tree /dev/null)
+            fi
+            dirs=$(git diff --name-only "$before" "${{ github.sha }}" -- 'packages/*/package.json' | xargs -n1 dirname | sort -u)
           fi
-          dirs=$(git diff --name-only "$before" "${{ github.sha }}" -- 'packages/*/package.json' | xargs -n1 dirname | sort -u)
           echo "dirs<<EOF" >> "$GITHUB_OUTPUT"
           echo "$dirs" >> "$GITHUB_OUTPUT"
           echo "EOF" >> "$GITHUB_OUTPUT"
