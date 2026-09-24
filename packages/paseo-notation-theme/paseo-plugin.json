@@ -1,6 +1,5 @@
 {
 	"id": "paseo-notation-theme",
-	"description": "Notation theme for Paseo, ported from Obsidian.",
 	"requirements": {
 		"paseo": ">=0.8.0"
 	}

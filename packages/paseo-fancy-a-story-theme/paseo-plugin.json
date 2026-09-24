@@ -1,6 +1,5 @@
 {
 	"id": "paseo-fancy-a-story-theme",
-	"description": "Fancy-a-Story theme for Paseo, ported from Obsidian.",
 	"requirements": {
 		"paseo": ">=0.8.0"
 	}

@@ -1,6 +1,5 @@
 {
 	"id": "paseo-royal-velvet-theme",
-	"description": "Royal Velvet theme for Paseo, ported from Obsidian.",
 	"requirements": {
 		"paseo": ">=0.8.0"
 	}

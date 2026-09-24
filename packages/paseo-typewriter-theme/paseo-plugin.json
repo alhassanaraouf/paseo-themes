@@ -1,6 +1,5 @@
 {
 	"id": "paseo-typewriter-theme",
-	"description": "Typewriter theme for Paseo, ported from Obsidian.",
 	"requirements": {
 		"paseo": ">=0.8.0"
 	}
