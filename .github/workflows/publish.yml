@@ -56,5 +56,5 @@ jobs:
               continue
             fi
             echo "publish $name@$version"
-            npm publish --access public "$dir"
+            (cd "$dir" && npm publish --access public)
           done
