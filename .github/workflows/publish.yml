@@ -5,6 +5,11 @@ on:
     branches: [main]
     paths:
       - "packages/*/package.json"
+  workflow_dispatch:
+    inputs:
+      since:
+        description: "Git ref to diff against (defaults to the previous commit)"
+        required: false
 
 jobs:
   publish:
@@ -33,7 +38,7 @@ jobs:
       - name: Find packages with a changed package.json
         id: changed
         run: |
-          before="${{ github.event.before }}"
+          before="${{ github.event.inputs.since || github.event.before }}"
           if [ -z "$before" ] || [ "$before" = "0000000000000000000000000000000000000000" ]; then
             before=$(git rev-parse HEAD~1 2>/dev/null || git hash-object -t tree /dev/null)
           fi
@@ -56,5 +61,5 @@ jobs:
               continue
             fi
             echo "publish $name@$version"
-            npm publish --access public "$dir"
+            (cd "$dir" && npm publish --access public)
           done
