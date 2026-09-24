@@ -26,7 +26,8 @@
 		"paseo-plugin.json",
 		"index.client.ts",
 		"README.md",
-		"LICENSE"
+		"LICENSE",
+		"preview-dark.png"
 	],
 	"scripts": {
 		"typecheck": "tsc --noEmit",
