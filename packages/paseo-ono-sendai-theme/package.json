@@ -1,6 +1,6 @@
 {
 	"name": "@alhassanaraouf/paseo-ono-sendai-theme",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"type": "module",
 	"description": "Ono Sendai theme for Paseo, ported from the Obsidian theme cannibalox/ono-sendai_obsdn.",
 	"license": "MIT",
@@ -26,7 +26,9 @@
 		"paseo-plugin.json",
 		"index.client.ts",
 		"README.md",
-		"LICENSE"
+		"LICENSE",
+		"preview-dark.png",
+		"preview-light.png"
 	],
 	"scripts": {
 		"typecheck": "tsc --noEmit",

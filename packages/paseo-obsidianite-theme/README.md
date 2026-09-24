@@ -17,6 +17,10 @@ paseo plugin install npm:@alhassanaraouf/paseo-obsidianite-theme
 
 This plugin contributes one `dark`-mode `addTheme` variant derived from the upstream Obsidian palette.
 
+## Preview
+
+![Obsidianite](./preview.png)
+
 ## License
 
 [MIT License](./LICENSE). Palette values come from the upstream Obsidian theme (see link above).
