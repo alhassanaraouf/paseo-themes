@@ -18,21 +18,5 @@ export default function contribute(client: PluginClientContext) {
 		},
 	});
 
-	client.addTheme({
-		id: "sodalite-light",
-		name: "Sodalite Light",
-		appearance: "light",
-		colors: {
-			background: "#ffffff",
-			foreground: "#1a1a1e",
-			raised: "#f5f5f5",
-			control: "#e8e8e8",
-			border: "#e0e0e0",
-			accent: "#304f80",
-			mutedForeground: "#525252",
-			ring: "#304f80",
-		},
-	});
-
 	return () => {};
 }

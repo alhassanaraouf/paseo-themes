@@ -18,21 +18,5 @@ export default function contribute(client: PluginClientContext) {
 		},
 	});
 
-	client.addTheme({
-		id: "charcoal-light",
-		name: "Charcoal Light",
-		appearance: "light",
-		colors: {
-			background: "#222527",
-			foreground: "#959595",
-			raised: "#1c1e21",
-			control: "#222527",
-			border: "#6d6d6d",
-			accent: "#9bb7c5",
-			mutedForeground: "#6d6d6d",
-			ring: "#3c444c",
-		},
-	});
-
 	return () => {};
 }

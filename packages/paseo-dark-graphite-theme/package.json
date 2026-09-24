@@ -1,6 +1,6 @@
 {
 	"name": "@alhassanaraouf/paseo-dark-graphite-theme",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"type": "module",
 	"description": "Dark Graphite theme for Paseo, ported from the Obsidian theme bcdavasconcelos/Obsidian-Graphite.",
 	"license": "MIT",

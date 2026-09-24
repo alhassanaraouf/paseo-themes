@@ -18,21 +18,5 @@ export default function contribute(client: PluginClientContext) {
 		},
 	});
 
-	client.addTheme({
-		id: "base2tone-light",
-		name: "Base2Tone Light",
-		appearance: "light",
-		colors: {
-			background: "#292433",
-			foreground: "#f1ebff",
-			raised: "#544b68",
-			control: "#352f42",
-			border: "#544b68",
-			accent: "#cf884a",
-			mutedForeground: "#e1d2fe",
-			ring: "#d99559",
-		},
-	});
-
 	return () => {};
 }

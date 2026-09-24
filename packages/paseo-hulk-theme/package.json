@@ -1,6 +1,6 @@
 {
 	"name": "@alhassanaraouf/paseo-hulk-theme",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"type": "module",
 	"description": "Hulk theme for Paseo, ported from the Obsidian theme pgalliford/Obsidian-theme-Incredible-Hulk.",
 	"license": "MIT",

@@ -11,11 +11,11 @@ paseo plugin install npm:@alhassanaraouf/paseo-terminal-theme
 ## Activate
 
 1. Open **Settings \u2192 Appearance**.
-2. Set **Theme** to **Terminal** for the dark variant or **Terminal Light** for the light variant.
+2. Set **Theme** to **Terminal**.
 
 ## Themes
 
-This plugin contributes two `addTheme` variants derived from the upstream Obsidian palette.
+This plugin contributes one `dark`-mode `addTheme` variant derived from the upstream Obsidian palette.
 
 ## License
 

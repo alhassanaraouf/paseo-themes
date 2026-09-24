@@ -11,11 +11,11 @@ paseo plugin install npm:@alhassanaraouf/paseo-comfort-color-dark-theme
 ## Activate
 
 1. Open **Settings \u2192 Appearance**.
-2. Set **Theme** to **Comfort color dark** for the dark variant or **Comfort color dark Light** for the light variant.
+2. Set **Theme** to **Comfort color dark**.
 
 ## Themes
 
-This plugin contributes two `addTheme` variants derived from the upstream Obsidian palette.
+This plugin contributes one `dark`-mode `addTheme` variant derived from the upstream Obsidian palette.
 
 ## License
 

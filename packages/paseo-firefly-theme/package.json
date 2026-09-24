@@ -1,6 +1,6 @@
 {
 	"name": "@alhassanaraouf/paseo-firefly-theme",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"type": "module",
 	"description": "Firefly theme for Paseo, ported from the Obsidian theme lazercaveman/obsidian-firefly-theme.",
 	"license": "MIT",

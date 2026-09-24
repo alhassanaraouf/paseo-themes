@@ -18,21 +18,5 @@ export default function contribute(client: PluginClientContext) {
 		},
 	});
 
-	client.addTheme({
-		id: "noctis-light",
-		name: "Noctis Light",
-		appearance: "light",
-		colors: {
-			background: "#052529",
-			foreground: "#b2cacd",
-			raised: "#041d20",
-			control: "#073940",
-			border: "#0f1415",
-			accent: "#009999",
-			mutedForeground: "#87a7ab",
-			ring: "#00cccc",
-		},
-	});
-
 	return () => {};
 }

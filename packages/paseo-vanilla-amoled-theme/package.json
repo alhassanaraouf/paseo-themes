@@ -1,6 +1,6 @@
 {
 	"name": "@alhassanaraouf/paseo-vanilla-amoled-theme",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"type": "module",
 	"description": "Vanilla AMOLED theme for Paseo, ported from the Obsidian theme sakuraisayeki/vanilla-amoled-theme.",
 	"license": "MIT",

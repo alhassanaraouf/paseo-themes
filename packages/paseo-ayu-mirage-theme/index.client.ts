@@ -18,21 +18,5 @@ export default function contribute(client: PluginClientContext) {
 		},
 	});
 
-	client.addTheme({
-		id: "ayu-mirage-light",
-		name: "Ayu Mirage Light",
-		appearance: "light",
-		colors: {
-			background: "#171a23",
-			foreground: "#d1cec6",
-			raised: "#13151e",
-			control: "#171a23",
-			border: "#686e80",
-			accent: "#3f455b",
-			mutedForeground: "#686e80",
-			ring: "#313646",
-		},
-	});
-
 	return () => {};
 }
