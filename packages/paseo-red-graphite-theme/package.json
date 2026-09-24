@@ -1,6 +1,6 @@
 {
 	"name": "@alhassanaraouf/paseo-red-graphite-theme",
-	"version": "0.1.0",
+	"version": "0.1.2",
 	"type": "module",
 	"description": "Red Graphite theme for Paseo, ported from the Obsidian theme seanwcom/Red-Graphite-for-Obsidian.",
 	"license": "MIT",
@@ -26,7 +26,9 @@
 		"paseo-plugin.json",
 		"index.client.ts",
 		"README.md",
-		"LICENSE"
+		"LICENSE",
+		"preview-dark.png",
+		"preview-light.png"
 	],
 	"scripts": {
 		"typecheck": "tsc --noEmit",

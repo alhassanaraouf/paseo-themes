@@ -17,6 +17,10 @@ paseo plugin install npm:@alhassanaraouf/paseo-obsidian-boom-theme
 
 This plugin contributes one `light`-mode `addTheme` variant derived from the upstream Obsidian palette.
 
+## Preview
+
+![Obsidian Boom](./preview.png)
+
 ## License
 
 [MIT License](./LICENSE). Palette values come from the upstream Obsidian theme (see link above).

@@ -1,6 +1,6 @@
 {
 	"name": "@alhassanaraouf/paseo-terminal-theme",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"type": "module",
 	"description": "Terminal theme for Paseo, ported from the Obsidian theme zcysxy/Obsidian-Terminal-Theme.",
 	"license": "MIT",
@@ -26,7 +26,8 @@
 		"paseo-plugin.json",
 		"index.client.ts",
 		"README.md",
-		"LICENSE"
+		"LICENSE",
+		"preview.png"
 	],
 	"scripts": {
 		"typecheck": "tsc --noEmit",

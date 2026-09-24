@@ -17,6 +17,12 @@ paseo plugin install npm:@alhassanaraouf/paseo-yin-and-yang-theme
 
 This plugin contributes two `addTheme` variants derived from the upstream Obsidian palette.
 
+## Preview
+
+![Dark](./preview-dark.png)
+
+![Light](./preview-light.png)
+
 ## License
 
 [MIT License](./LICENSE). Palette values come from the upstream Obsidian theme (see link above).
