@@ -1,6 +1,6 @@
 {
 	"name": "@alhassanaraouf/paseo-everblush-theme",
-	"version": "0.2.0",
+	"version": "0.1.1",
 	"type": "module",
 	"description": "Everblush theme for Paseo, ported from the Obsidian theme everblush/Obsidian.",
 	"license": "MIT",

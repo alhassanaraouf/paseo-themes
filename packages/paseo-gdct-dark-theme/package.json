@@ -1,6 +1,6 @@
 {
 	"name": "@alhassanaraouf/paseo-gdct-dark-theme",
-	"version": "0.2.0",
+	"version": "0.1.1",
 	"type": "module",
 	"description": "GDCT Dark theme for Paseo, ported from the Obsidian theme bcdavasconcelos/Obsidian-GDCT_Dark.",
 	"license": "MIT",

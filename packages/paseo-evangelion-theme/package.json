@@ -1,6 +1,6 @@
 {
 	"name": "@alhassanaraouf/paseo-evangelion-theme",
-	"version": "0.2.0",
+	"version": "0.1.1",
 	"type": "module",
 	"description": "evangelion theme for Paseo, ported from the Obsidian theme xero/evangelion.obsidian.",
 	"license": "MIT",

@@ -1,6 +1,6 @@
 {
 	"name": "@alhassanaraouf/paseo-charcoal-theme",
-	"version": "0.2.0",
+	"version": "0.1.1",
 	"type": "module",
 	"description": "Charcoal theme for Paseo, ported from the Obsidian theme bcdavasconcelos/Obsidian-Charcoal.",
 	"license": "MIT",
