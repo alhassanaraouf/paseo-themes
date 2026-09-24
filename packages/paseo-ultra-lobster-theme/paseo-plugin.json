@@ -1,0 +1,7 @@
+{
+	"id": "paseo-ultra-lobster-theme",
+	"description": "Ultra Lobster theme for Paseo, ported from Obsidian.",
+	"requirements": {
+		"paseo": ">=0.8.0"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"id": "paseo-wasp-theme",
+	"description": "Wasp theme for Paseo, ported from Obsidian.",
+	"requirements": {
+		"paseo": ">=0.8.0"
+	}
+}

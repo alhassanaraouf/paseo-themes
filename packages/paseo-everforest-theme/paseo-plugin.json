@@ -1,0 +1,7 @@
+{
+	"id": "paseo-everforest-theme",
+	"description": "Everforest theme for Paseo, ported from Obsidian.",
+	"requirements": {
+		"paseo": ">=0.8.0"
+	}
+}

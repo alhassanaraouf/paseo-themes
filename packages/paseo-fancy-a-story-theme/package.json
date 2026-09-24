@@ -1,0 +1,40 @@
+{
+	"name": "@alhassanaraouf/paseo-fancy-a-story-theme",
+	"version": "0.1.0",
+	"type": "module",
+	"description": "Fancy-a-Story theme for Paseo, ported from the Obsidian theme elsatam/obsidian-fancy-a-story.",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/alhassanaraouf/paseo-themes.git",
+		"directory": "packages/paseo-fancy-a-story-theme"
+	},
+	"homepage": "https://github.com/alhassanaraouf/paseo-themes/tree/main/packages/paseo-fancy-a-story-theme#readme",
+	"bugs": {
+		"url": "https://github.com/alhassanaraouf/paseo-themes/issues"
+	},
+	"publishConfig": {
+		"access": "public"
+	},
+	"keywords": [
+		"paseo",
+		"paseo-plugin",
+		"theme",
+		"fancy-a-story"
+	],
+	"files": [
+		"paseo-plugin.json",
+		"index.client.ts",
+		"README.md",
+		"LICENSE"
+	],
+	"scripts": {
+		"typecheck": "tsc --noEmit",
+		"test": "vitest run"
+	},
+	"devDependencies": {
+		"@getpaseo/plugin": "0.9.1",
+		"typescript": "^5.9.0",
+		"vitest": "^3.0.0"
+	}
+}

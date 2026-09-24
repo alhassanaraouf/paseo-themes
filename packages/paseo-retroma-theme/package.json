@@ -1,0 +1,40 @@
+{
+	"name": "@alhassanaraouf/paseo-retroma-theme",
+	"version": "0.1.0",
+	"type": "module",
+	"description": "Retroma theme for Paseo, ported from the Obsidian theme emarpiee/Retroma.",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/alhassanaraouf/paseo-themes.git",
+		"directory": "packages/paseo-retroma-theme"
+	},
+	"homepage": "https://github.com/alhassanaraouf/paseo-themes/tree/main/packages/paseo-retroma-theme#readme",
+	"bugs": {
+		"url": "https://github.com/alhassanaraouf/paseo-themes/issues"
+	},
+	"publishConfig": {
+		"access": "public"
+	},
+	"keywords": [
+		"paseo",
+		"paseo-plugin",
+		"theme",
+		"retroma"
+	],
+	"files": [
+		"paseo-plugin.json",
+		"index.client.ts",
+		"README.md",
+		"LICENSE"
+	],
+	"scripts": {
+		"typecheck": "tsc --noEmit",
+		"test": "vitest run"
+	},
+	"devDependencies": {
+		"@getpaseo/plugin": "0.9.1",
+		"typescript": "^5.9.0",
+		"vitest": "^3.0.0"
+	}
+}

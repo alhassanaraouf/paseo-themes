@@ -1,0 +1,7 @@
+{
+	"id": "paseo-comfort-color-dark-theme",
+	"description": "Comfort color dark theme for Paseo, ported from Obsidian.",
+	"requirements": {
+		"paseo": ">=0.8.0"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"id": "paseo-yin-and-yang-theme",
+	"description": "Yin and Yang theme for Paseo, ported from Obsidian.",
+	"requirements": {
+		"paseo": ">=0.8.0"
+	}
+}
