@@ -18,21 +18,5 @@ export default function contribute(client: PluginClientContext) {
 		},
 	});
 
-	client.addTheme({
-		id: "everblush-light",
-		name: "Everblush Light",
-		appearance: "light",
-		colors: {
-			background: "#dadada",
-			foreground: "#141b1e",
-			raised: "#d5d5d5",
-			control: "#d5d5d5",
-			border: "#d0d0d0",
-			accent: "#454c4e",
-			mutedForeground: "#1e2528",
-			ring: "#454c4e",
-		},
-	});
-
 	return () => {};
 }

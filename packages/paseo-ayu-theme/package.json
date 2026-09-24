@@ -1,6 +1,6 @@
 {
 	"name": "@alhassanaraouf/paseo-ayu-theme",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"type": "module",
 	"description": "Ayu theme for Paseo, ported from the Obsidian theme bcdavasconcelos/Obsidian-Ayu.",
 	"license": "MIT",
@@ -27,7 +27,7 @@
 		"index.client.ts",
 		"README.md",
 		"LICENSE",
-		"preview-dark.png"
+		"preview.png"
 	],
 	"scripts": {
 		"typecheck": "tsc --noEmit",

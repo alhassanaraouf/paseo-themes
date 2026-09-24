@@ -1,6 +1,6 @@
 {
 	"name": "@alhassanaraouf/paseo-atom-theme",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"type": "module",
 	"description": "Atom theme for Paseo, ported from the Obsidian theme kognise/obsidian-atom.",
 	"license": "MIT",

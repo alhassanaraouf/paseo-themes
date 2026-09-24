@@ -18,21 +18,5 @@ export default function contribute(client: PluginClientContext) {
 		},
 	});
 
-	client.addTheme({
-		id: "vanilla-amoled-light",
-		name: "Vanilla AMOLED Light",
-		appearance: "light",
-		colors: {
-			background: "#ffffff",
-			foreground: "#2e3338",
-			raised: "#f2f3f5",
-			control: "#f2f3f5",
-			border: "#dddddd",
-			accent: "#7b6cd9",
-			mutedForeground: "#888888",
-			ring: "#7b6cd9",
-		},
-	});
-
 	return () => {};
 }

@@ -1,6 +1,6 @@
 {
 	"name": "@alhassanaraouf/paseo-aubade-theme",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"type": "module",
 	"description": "Aubade theme for Paseo, ported from the Obsidian theme ducktapekiller/obsidian-aubade.",
 	"license": "MIT",

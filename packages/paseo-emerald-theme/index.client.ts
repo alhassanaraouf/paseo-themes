@@ -18,21 +18,5 @@ export default function contribute(client: PluginClientContext) {
 		},
 	});
 
-	client.addTheme({
-		id: "emerald-light",
-		name: "Emerald Light",
-		appearance: "light",
-		colors: {
-			background: "#ffffff",
-			foreground: "#1a1a1e",
-			raised: "#f5f5f5",
-			control: "#e8e8e8",
-			border: "#e0e0e0",
-			accent: "#237052",
-			mutedForeground: "#1a1a1e",
-			ring: "#237052",
-		},
-	});
-
 	return () => {};
 }

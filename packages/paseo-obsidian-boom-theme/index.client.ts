@@ -5,22 +5,6 @@ export default function contribute(client: PluginClientContext) {
 	client.addTheme({
 		id: "obsidian-boom",
 		name: "Obsidian Boom",
-		appearance: "dark",
-		colors: {
-			background: "#1a1a1e",
-			foreground: "#fafafa",
-			raised: "#28282c",
-			control: "#3a3a3e",
-			border: "#434346",
-			accent: "#106ba3",
-			mutedForeground: "#bcbcbc",
-			ring: "#106ba3",
-		},
-	});
-
-	client.addTheme({
-		id: "obsidian-boom-light",
-		name: "Obsidian Boom Light",
 		appearance: "light",
 		colors: {
 			background: "#ffffff",

@@ -1,6 +1,6 @@
 {
 	"name": "@alhassanaraouf/paseo-emerald-theme",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"type": "module",
 	"description": "Emerald theme for Paseo, ported from the Obsidian theme gracejoseph1236/obsidian-emerald.",
 	"license": "MIT",

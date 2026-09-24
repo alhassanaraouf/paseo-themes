@@ -11,15 +11,16 @@ paseo plugin install npm:@alhassanaraouf/paseo-ayu-theme
 ## Activate
 
 1. Open **Settings \u2192 Appearance**.
-2. Set **Theme** to **Ayu** for the dark variant or **Ayu Light** for the light variant.
+2. Set **Theme** to **Ayu**.
 
 ## Themes
 
-This plugin contributes two `addTheme` variants derived from the upstream Obsidian palette.
+This plugin contributes one `light`-mode `addTheme` variant derived from the upstream Obsidian palette.
 
 ## Preview
 
-![Dark](./preview-dark.png)
+![Ayu](./preview.png)
+
 ## License
 
 [MIT License](./LICENSE). Palette values come from the upstream Obsidian theme (see link above).

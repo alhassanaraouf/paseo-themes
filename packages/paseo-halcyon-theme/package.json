@@ -1,6 +1,6 @@
 {
 	"name": "@alhassanaraouf/paseo-halcyon-theme",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"type": "module",
 	"description": "halcyon theme for Paseo, ported from the Obsidian theme dbarenholz/halcyon-obsidian.",
 	"license": "MIT",

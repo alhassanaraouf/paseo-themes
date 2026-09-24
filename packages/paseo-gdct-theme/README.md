@@ -11,11 +11,11 @@ paseo plugin install npm:@alhassanaraouf/paseo-gdct-theme
 ## Activate
 
 1. Open **Settings \u2192 Appearance**.
-2. Set **Theme** to **GDCT** for the dark variant or **GDCT Light** for the light variant.
+2. Set **Theme** to **GDCT**.
 
 ## Themes
 
-This plugin contributes two `addTheme` variants derived from the upstream Obsidian palette.
+This plugin contributes one `light`-mode `addTheme` variant derived from the upstream Obsidian palette.
 
 ## License
 

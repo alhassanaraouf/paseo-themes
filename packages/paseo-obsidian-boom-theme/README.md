@@ -11,11 +11,11 @@ paseo plugin install npm:@alhassanaraouf/paseo-obsidian-boom-theme
 ## Activate
 
 1. Open **Settings \u2192 Appearance**.
-2. Set **Theme** to **Obsidian Boom** for the dark variant or **Obsidian Boom Light** for the light variant.
+2. Set **Theme** to **Obsidian Boom**.
 
 ## Themes
 
-This plugin contributes two `addTheme` variants derived from the upstream Obsidian palette.
+This plugin contributes one `light`-mode `addTheme` variant derived from the upstream Obsidian palette.
 
 ## License
 

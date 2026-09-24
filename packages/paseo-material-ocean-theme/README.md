@@ -11,11 +11,11 @@ paseo plugin install npm:@alhassanaraouf/paseo-material-ocean-theme
 ## Activate
 
 1. Open **Settings \u2192 Appearance**.
-2. Set **Theme** to **Material Ocean** for the dark variant or **Material Ocean Light** for the light variant.
+2. Set **Theme** to **Material Ocean**.
 
 ## Themes
 
-This plugin contributes two `addTheme` variants derived from the upstream Obsidian palette.
+This plugin contributes one `dark`-mode `addTheme` variant derived from the upstream Obsidian palette.
 
 ## License
 
