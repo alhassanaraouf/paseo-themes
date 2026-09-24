@@ -1,6 +1,6 @@
 {
 	"name": "@alhassanaraouf/paseo-red-graphite-theme",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"type": "module",
 	"description": "Red Graphite theme for Paseo, ported from the Obsidian theme seanwcom/Red-Graphite-for-Obsidian.",
 	"license": "MIT",

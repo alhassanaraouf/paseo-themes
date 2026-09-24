@@ -1,6 +1,6 @@
 {
 	"name": "@alhassanaraouf/paseo-reverie-theme",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"type": "module",
 	"description": "Reverie theme for Paseo, ported from the Obsidian theme santiyounger/Reverie-Obsidian-Theme.",
 	"license": "MIT",

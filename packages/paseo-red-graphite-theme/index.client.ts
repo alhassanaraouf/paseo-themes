@@ -25,7 +25,7 @@ export default function contribute(client: PluginClientContext) {
 		colors: {
 			background: "#f7f7f8",
 			foreground: "#292c2e",
-			raised: "#292c2e",
+			raised: "#eceef0",
 			control: "#ffffff",
 			border: "#dcdee0",
 			accent: "#cb4c48",

@@ -1,6 +1,6 @@
 {
 	"name": "@alhassanaraouf/paseo-base2tone-theme",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"type": "module",
 	"description": "Base2Tone theme for Paseo, ported from the Obsidian theme deathau/Base2Tone-For-Obsidian.md.",
 	"license": "MIT",

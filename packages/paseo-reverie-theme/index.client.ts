@@ -26,10 +26,10 @@ export default function contribute(client: PluginClientContext) {
 			background: "#e7e7e7",
 			foreground: "#1a2023",
 			raised: "#e3e3e3",
-			control: "#534a42",
+			control: "#dcd6cc",
 			border: "#0a4a44",
 			accent: "#0c5249",
-			mutedForeground: "#534a42",
+			mutedForeground: "#6b6259",
 			ring: "#084540",
 		},
 	});

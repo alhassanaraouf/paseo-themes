@@ -12,7 +12,7 @@ export default function contribute(client: PluginClientContext) {
 			raised: "#151e2d",
 			control: "#151e2d",
 			border: "#a1a1a1",
-			accent: "#000000",
+			accent: "#a1a1a1",
 			mutedForeground: "#a1a1a1",
 			ring: "#506682",
 		},
