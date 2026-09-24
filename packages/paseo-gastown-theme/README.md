@@ -17,6 +17,10 @@ paseo plugin install npm:@alhassanaraouf/paseo-gastown-theme
 
 This plugin contributes one `light`-mode `addTheme` variant derived from the upstream Obsidian palette.
 
+## Preview
+
+![Gastown](./preview.png)
+
 ## License
 
 [MIT License](./LICENSE). Palette values come from the upstream Obsidian theme (see link above).
