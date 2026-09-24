@@ -1,6 +1,5 @@
 {
 	"id": "paseo-things-theme",
-	"description": "Things theme for Paseo, ported from Obsidian.",
 	"requirements": {
 		"paseo": ">=0.8.0"
 	}

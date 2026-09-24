@@ -1,6 +1,5 @@
 {
 	"id": "paseo-obsidian-boom-theme",
-	"description": "Obsidian Boom theme for Paseo, ported from Obsidian.",
 	"requirements": {
 		"paseo": ">=0.8.0"
 	}

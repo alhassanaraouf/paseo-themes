@@ -1,6 +1,5 @@
 {
 	"id": "paseo-shimmering-focus-theme",
-	"description": "Shimmering Focus theme for Paseo, ported from Obsidian.",
 	"requirements": {
 		"paseo": ">=0.8.0"
 	}
