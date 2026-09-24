@@ -1,7 +1,0 @@
-{
-	"id": "paseo-github-theme",
-	"description": "GitHub Theme theme for Paseo, ported from Obsidian.",
-	"requirements": {
-		"paseo": ">=0.8.0"
-	}
-}

@@ -1,7 +1,0 @@
-{
-	"id": "paseo-dark-graphite-pie",
-	"description": "Dark Graphite Pie theme for Paseo, ported from Obsidian.",
-	"requirements": {
-		"paseo": ">=0.8.0"
-	}
-}

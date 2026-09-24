@@ -1,0 +1,7 @@
+{
+	"id": "paseo-maple-theme",
+	"description": "Maple theme for Paseo, ported from Obsidian.",
+	"requirements": {
+		"paseo": ">=0.8.0"
+	}
+}

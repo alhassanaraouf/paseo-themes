@@ -1,7 +1,0 @@
-{
-	"id": "paseo-material-ocean",
-	"description": "Material Ocean theme for Paseo, ported from Obsidian.",
-	"requirements": {
-		"paseo": ">=0.8.0"
-	}
-}

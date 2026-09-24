@@ -1,7 +1,0 @@
-{
-	"id": "paseo-obsidianotion",
-	"description": "Obsidianotion theme for Paseo, ported from Obsidian.",
-	"requirements": {
-		"paseo": ">=0.8.0"
-	}
-}

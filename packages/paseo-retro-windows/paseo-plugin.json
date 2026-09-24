@@ -1,7 +1,0 @@
-{
-	"id": "paseo-retro-windows",
-	"description": "Retro Windows theme for Paseo, ported from Obsidian.",
-	"requirements": {
-		"paseo": ">=0.8.0"
-	}
-}

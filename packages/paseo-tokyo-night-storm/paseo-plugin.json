@@ -1,7 +1,0 @@
-{
-	"id": "paseo-tokyo-night-storm",
-	"description": "Tokyo Night Storm theme for Paseo, ported from Obsidian.",
-	"requirements": {
-		"paseo": ">=0.8.0"
-	}
-}

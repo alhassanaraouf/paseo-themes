@@ -1,0 +1,7 @@
+{
+	"id": "paseo-sanctum-theme",
+	"description": "Sanctum theme for Paseo, ported from Obsidian.",
+	"requirements": {
+		"paseo": ">=0.8.0"
+	}
+}

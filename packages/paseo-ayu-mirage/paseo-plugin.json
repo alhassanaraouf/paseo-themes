@@ -1,7 +1,0 @@
-{
-	"id": "paseo-ayu-mirage",
-	"description": "Ayu Mirage theme for Paseo, ported from Obsidian.",
-	"requirements": {
-		"paseo": ">=0.8.0"
-	}
-}

@@ -1,7 +1,0 @@
-{
-	"id": "paseo-golden-topaz",
-	"description": "Golden Topaz theme for Paseo, ported from Obsidian.",
-	"requirements": {
-		"paseo": ">=0.8.0"
-	}
-}
