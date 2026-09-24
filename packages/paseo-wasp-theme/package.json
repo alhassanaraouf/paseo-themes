@@ -1,6 +1,6 @@
 {
 	"name": "@alhassanaraouf/paseo-wasp-theme",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"type": "module",
 	"description": "Wasp theme for Paseo, ported from the Obsidian theme santiyounger/Wasp-Obsidian-Theme.",
 	"license": "MIT",
@@ -26,7 +26,9 @@
 		"paseo-plugin.json",
 		"index.client.ts",
 		"README.md",
-		"LICENSE"
+		"LICENSE",
+		"preview-dark.png",
+		"preview-light.png"
 	],
 	"scripts": {
 		"typecheck": "tsc --noEmit",

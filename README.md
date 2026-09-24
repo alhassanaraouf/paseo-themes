@@ -55,7 +55,7 @@ Skipped: Dracula (3 variants), Solarized, Catppuccin and Gruvbox are already on 
 | 5 | Obsidian Nord | `@alhassanaraouf/paseo-obsidian-nord-theme` | #2e3440 / #ffffff | `#d08770` | [dark](packages/paseo-obsidian-nord-theme/preview-dark.png) · [light](packages/paseo-obsidian-nord-theme/preview-light.png) |
 | 6 | Atom | `@alhassanaraouf/paseo-atom-theme` | #272b34 / #fafafa | `#61afef` | [dark](packages/paseo-atom-theme/preview-dark.png) · [light](packages/paseo-atom-theme/preview-light.png) |
 | 7 | Obsidianite | `@alhassanaraouf/paseo-obsidianite-theme` | #100e17 (dark only) | `#0ed2f7` | [preview](packages/paseo-obsidianite-theme/preview.png) |
-| 8 | Wasp | `@alhassanaraouf/paseo-wasp-theme` | #242424 / #faf6f0 | `#f8c537` |  |
+| 8 | Wasp | `@alhassanaraouf/paseo-wasp-theme` | #242424 / #faf6f0 | `#f8c537` | [dark](packages/paseo-wasp-theme/preview-dark.png) · [light](packages/paseo-wasp-theme/preview-light.png) |
 | 9 | Typewriter | `@alhassanaraouf/paseo-typewriter-theme` | #262626 / #fcf5e4 | `#6db478` | [dark](packages/paseo-typewriter-theme/preview-dark.png) · [light](packages/paseo-typewriter-theme/preview-light.png) |
 | 10 | ITS Theme | `@alhassanaraouf/paseo-its-theme-theme` | #1a1e24 / #f8fbff | `#652121` | [dark](packages/paseo-its-theme-theme/preview-dark.png) · [light](packages/paseo-its-theme-theme/preview-light.png) |
 | 11 | Shimmering Focus | `@alhassanaraouf/paseo-shimmering-focus-theme` | #1a1c23 / #fbfcfd | `#108189` | [dark](packages/paseo-shimmering-focus-theme/preview-dark.png) · [light](packages/paseo-shimmering-focus-theme/preview-light.png) |
@@ -66,7 +66,7 @@ Skipped: Dracula (3 variants), Solarized, Catppuccin and Gruvbox are already on 
 | 16 | Border | `@alhassanaraouf/paseo-border-theme` | #27282e / #ffffff | `#707bc2` | [dark](packages/paseo-border-theme/preview-dark.png) · [light](packages/paseo-border-theme/preview-light.png) |
 | 17 | Everforest | `@alhassanaraouf/paseo-everforest-theme` | #2f383e / #fdf6e3 | `#569d79` | [dark](packages/paseo-everforest-theme/preview-dark.png) · [light](packages/paseo-everforest-theme/preview-light.png) |
 | 18 | Cybertron | `@alhassanaraouf/paseo-cybertron-theme` | #2f3136 (dark only) | `#fe8019` | [preview](packages/paseo-cybertron-theme/preview.png) |
-| 19 | Willemstad | `@alhassanaraouf/paseo-willemstad-theme` | #070707 / #ffffff | `#483699` |  |
+| 19 | Willemstad | `@alhassanaraouf/paseo-willemstad-theme` | #070707 / #ffffff | `#483699` | [dark](packages/paseo-willemstad-theme/preview-dark.png) · [light](packages/paseo-willemstad-theme/preview-light.png) |
 | 20 | GitHub Theme | `@alhassanaraouf/paseo-github-theme-theme` | #0d1117 / #ffffff | `#439bff` | [dark](packages/paseo-github-theme-theme/preview-dark.png) · [light](packages/paseo-github-theme-theme/preview-light.png) |
 | 21 | Notation | `@alhassanaraouf/paseo-notation-theme` | #2f3437 / #ffffff | `#2eaadc` | [dark](packages/paseo-notation-theme/preview-dark.png) · [light](packages/paseo-notation-theme/preview-light.png) |
 | 22 | Typomagical | `@alhassanaraouf/paseo-typomagical-theme` | #000000 / #eff1f5 | `#89b4fa` | [dark](packages/paseo-typomagical-theme/preview-dark.png) · [light](packages/paseo-typomagical-theme/preview-light.png) |
@@ -77,16 +77,16 @@ Skipped: Dracula (3 variants), Solarized, Catppuccin and Gruvbox are already on 
 | 27 | Shiba Inu | `@alhassanaraouf/paseo-shiba-inu-theme` | #2a2d3d / #fcfcfc | `#ebbcba` | [dark](packages/paseo-shiba-inu-theme/preview-dark.png) · [light](packages/paseo-shiba-inu-theme/preview-light.png) |
 | 28 | LYT Mode | `@alhassanaraouf/paseo-lyt-mode-theme` | #2d3039 (dark only) | `#585f74` | [preview](packages/paseo-lyt-mode-theme/preview.png) |
 | 29 | Obsidianotion | `@alhassanaraouf/paseo-obsidianotion-theme` | #1f1f1f / #ffffff | `#4dabf7` | [dark](packages/paseo-obsidianotion-theme/preview-dark.png) · [light](packages/paseo-obsidianotion-theme/preview-light.png) |
-| 30 | Yin and Yang | `@alhassanaraouf/paseo-yin-and-yang-theme` | #0a0d10 / #fcfdfd | `#ffccf1` |  |
+| 30 | Yin and Yang | `@alhassanaraouf/paseo-yin-and-yang-theme` | #0a0d10 / #fcfdfd | `#ffccf1` | [dark](packages/paseo-yin-and-yang-theme/preview-dark.png) · [light](packages/paseo-yin-and-yang-theme/preview-light.png) |
 | 31 | Red Graphite | `@alhassanaraouf/paseo-red-graphite-theme` | #282f3e / #f7f7f8 | `#f6cd74` | [dark](packages/paseo-red-graphite-theme/preview-dark.png) · [light](packages/paseo-red-graphite-theme/preview-light.png) |
 | 32 | Origami | `@alhassanaraouf/paseo-origami-theme` | #202020 / #f8f5f3 | `#8a5cf5` | [dark](packages/paseo-origami-theme/preview-dark.png) · [light](packages/paseo-origami-theme/preview-light.png) |
 | 33 | Fancy-a-Story | `@alhassanaraouf/paseo-fancy-a-story-theme` | #1f1f1f / #e7e7e7 | `#2d8b62` | [dark](packages/paseo-fancy-a-story-theme/preview-dark.png) · [light](packages/paseo-fancy-a-story-theme/preview-light.png) |
 | 34 | Flexoki | `@alhassanaraouf/paseo-flexoki-theme` | #100f0f / #fffcf0 | `#3aa99f` | [dark](packages/paseo-flexoki-theme/preview-dark.png) · [light](packages/paseo-flexoki-theme/preview-light.png) |
-| 35 | Underwater | `@alhassanaraouf/paseo-underwater-theme` | #19192e / #f5efee | `#ebbcba` |  |
+| 35 | Underwater | `@alhassanaraouf/paseo-underwater-theme` | #19192e / #f5efee | `#ebbcba` | [dark](packages/paseo-underwater-theme/preview-dark.png) · [light](packages/paseo-underwater-theme/preview-light.png) |
 | 36 | Typora-Vue | `@alhassanaraouf/paseo-typora-vue-theme` | #202020 / #ffffff | `#42b883` | [dark](packages/paseo-typora-vue-theme/preview-dark.png) · [light](packages/paseo-typora-vue-theme/preview-light.png) |
-| 37 | Vauxhall | `@alhassanaraouf/paseo-vauxhall-theme` | #03030b / #f7f7fd | `#483699` |  |
+| 37 | Vauxhall | `@alhassanaraouf/paseo-vauxhall-theme` | #03030b / #f7f7fd | `#483699` | [dark](packages/paseo-vauxhall-theme/preview-dark.png) · [light](packages/paseo-vauxhall-theme/preview-light.png) |
 | 38 | Maple | `@alhassanaraouf/paseo-maple-theme` | #202122 / #f0f0ef | `#d9a441` | [dark](packages/paseo-maple-theme/preview-dark.png) · [light](packages/paseo-maple-theme/preview-light.png) |
-| 39 | Velocity | `@alhassanaraouf/paseo-velocity-theme` | #1a1a1e / #ffffff | `#1b7eee` |  |
+| 39 | Velocity | `@alhassanaraouf/paseo-velocity-theme` | #1a1a1e / #ffffff | `#1b7eee` | [dark](packages/paseo-velocity-theme/preview-dark.png) · [light](packages/paseo-velocity-theme/preview-light.png) |
 | 40 | Cupertino | `@alhassanaraouf/paseo-cupertino-theme` | #1a1a1e / #ffffff | `#0a84ff` | [dark](packages/paseo-cupertino-theme/preview-dark.png) · [light](packages/paseo-cupertino-theme/preview-light.png) |
 | 41 | Baseline | `@alhassanaraouf/paseo-baseline-theme` | #11111b / #fdfcfc | `#314f52` | [dark](packages/paseo-baseline-theme/preview-dark.png) · [light](packages/paseo-baseline-theme/preview-light.png) |
 | 42 | Retroma | `@alhassanaraouf/paseo-retroma-theme` | #1a1a1e / #ffffff | `#2d8b62` | [dark](packages/paseo-retroma-theme/preview-dark.png) · [light](packages/paseo-retroma-theme/preview-light.png) |
@@ -99,7 +99,7 @@ Skipped: Dracula (3 variants), Solarized, Catppuccin and Gruvbox are already on 
 | 49 | Retro Windows | `@alhassanaraouf/paseo-retro-windows-theme` | #1e1e1e / #ffffff | `#4f6fb0` | [dark](packages/paseo-retro-windows-theme/preview-dark.png) · [light](packages/paseo-retro-windows-theme/preview-light.png) |
 | 50 | obsidian_ia | `@alhassanaraouf/paseo-obsidian-ia-theme` | #191a19 / #f7f7f7 | `#00c1ff` | [dark](packages/paseo-obsidian-ia-theme/preview-dark.png) · [light](packages/paseo-obsidian-ia-theme/preview-light.png) |
 | 51 | MagicUser | `@alhassanaraouf/paseo-magicuser-theme` | #002248 / #e8efff | `#8b6cef` | [dark](packages/paseo-magicuser-theme/preview-dark.png) · [light](packages/paseo-magicuser-theme/preview-light.png) |
-| 52 | Vicious | `@alhassanaraouf/paseo-vicious-theme` | #08090e / #fbfcfc | `#f1cb83` |  |
+| 52 | Vicious | `@alhassanaraouf/paseo-vicious-theme` | #08090e / #fbfcfc | `#f1cb83` | [dark](packages/paseo-vicious-theme/preview-dark.png) · [light](packages/paseo-vicious-theme/preview-light.png) |
 | 53 | flexcyon | `@alhassanaraouf/paseo-flexcyon-theme` | #14161c / #f1f0ec | `#a5bc84` | [dark](packages/paseo-flexcyon-theme/preview-dark.png) · [light](packages/paseo-flexcyon-theme/preview-light.png) |
 | 54 | Nier | `@alhassanaraouf/paseo-nier-theme` | #ddd8c7 (dark only) | `#6e695b` | [preview](packages/paseo-nier-theme/preview.png) |
 | 55 | evangelion | `@alhassanaraouf/paseo-evangelion-theme` | #201430 (dark only) | `#8edf5f` | [preview](packages/paseo-evangelion-theme/preview.png) |
@@ -117,12 +117,12 @@ Skipped: Dracula (3 variants), Solarized, Catppuccin and Gruvbox are already on 
 | 67 | Sodalite | `@alhassanaraouf/paseo-sodalite-theme` | #1a1a1e (dark only) | `#304f80` | [preview](packages/paseo-sodalite-theme/preview.png) |
 | 68 | Emerald | `@alhassanaraouf/paseo-emerald-theme` | #1a1a1e (dark only) | `#237052` | [preview](packages/paseo-emerald-theme/preview.png) |
 | 69 | Firefly | `@alhassanaraouf/paseo-firefly-theme` | #1a1a1e (dark only) | `#2d8b62` | [preview](packages/paseo-firefly-theme/preview.png) |
-| 70 | Vanilla AMOLED | `@alhassanaraouf/paseo-vanilla-amoled-theme` | #000000 (dark only) | `#483699` | |
+| 70 | Vanilla AMOLED | `@alhassanaraouf/paseo-vanilla-amoled-theme` | #000000 (dark only) | `#483699` | [preview](packages/paseo-vanilla-amoled-theme/preview.png) |
 | 71 | Noctis | `@alhassanaraouf/paseo-noctis-theme` | #052529 (dark only) | `#009999` | [preview](packages/paseo-noctis-theme/preview.png) |
 | 72 | Material Ocean | `@alhassanaraouf/paseo-material-ocean-theme` | #0f111a (dark only) | `#ff475a` | [preview](packages/paseo-material-ocean-theme/preview.png) |
 | 73 | Tokyo Night Storm | `@alhassanaraouf/paseo-tokyo-night-storm-theme` | #24283b (dark only) | `#80d0ff` | [preview](packages/paseo-tokyo-night-storm-theme/preview.png) |
 | 74 | Kanagawa Paper | `@alhassanaraouf/paseo-kanagawa-paper-theme` | #181616 / #f2ecbc | `#8ba4b0` | [dark](packages/paseo-kanagawa-paper-theme/preview-dark.png) · [light](packages/paseo-kanagawa-paper-theme/preview-light.png) |
-| 75 | Ultra Lobster | `@alhassanaraouf/paseo-ultra-lobster-theme` | #1a1a1e / #ffffff | `#027aff` |  |
+| 75 | Ultra Lobster | `@alhassanaraouf/paseo-ultra-lobster-theme` | #1a1a1e / #ffffff | `#027aff` | [dark](packages/paseo-ultra-lobster-theme/preview-dark.png) · [light](packages/paseo-ultra-lobster-theme/preview-light.png) |
 | 76 | Dune | `@alhassanaraouf/paseo-dune-theme` | #283037 / #e9a791 | `#ff8c00` | [dark](packages/paseo-dune-theme/preview-dark.png) · [light](packages/paseo-dune-theme/preview-light.png) |
 | 77 | halcyon | `@alhassanaraouf/paseo-halcyon-theme` | #1d2433 (dark only) | `#ffcc66` | [preview](packages/paseo-halcyon-theme/preview.png) |
 | 78 | Amethyst | `@alhassanaraouf/paseo-amethyst-theme` | #1a1a1e / #ffffff | `#3e3471` | [dark](packages/paseo-amethyst-theme/preview-dark.png) · [light](packages/paseo-amethyst-theme/preview-light.png) |
