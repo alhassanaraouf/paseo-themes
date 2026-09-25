@@ -1,5 +1,5 @@
 {
-	"name": "@alhassanaraouf/paseo-its-theme-theme",
+	"name": "@alhassanaraouf/paseo-its-theme",
 	"version": "0.1.1",
 	"type": "module",
 	"description": "ITS Theme theme for Paseo, ported from the Obsidian theme slrvb/Obsidian--ITS-Theme.",
@@ -7,9 +7,9 @@
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/alhassanaraouf/paseo-themes.git",
-		"directory": "packages/paseo-its-theme-theme"
+		"directory": "packages/paseo-its-theme"
 	},
-	"homepage": "https://github.com/alhassanaraouf/paseo-themes/tree/main/packages/paseo-its-theme-theme#readme",
+	"homepage": "https://github.com/alhassanaraouf/paseo-themes/tree/main/packages/paseo-its-theme#readme",
 	"bugs": {
 		"url": "https://github.com/alhassanaraouf/paseo-themes/issues"
 	},

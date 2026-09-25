@@ -1,5 +1,5 @@
 {
-	"name": "@alhassanaraouf/paseo-github-theme-theme",
+	"name": "@alhassanaraouf/paseo-github-theme",
 	"version": "0.1.1",
 	"type": "module",
 	"description": "GitHub Theme theme for Paseo, ported from the Obsidian theme krios2146/obsidian-theme-github.",
@@ -7,9 +7,9 @@
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/alhassanaraouf/paseo-themes.git",
-		"directory": "packages/paseo-github-theme-theme"
+		"directory": "packages/paseo-github-theme"
 	},
-	"homepage": "https://github.com/alhassanaraouf/paseo-themes/tree/main/packages/paseo-github-theme-theme#readme",
+	"homepage": "https://github.com/alhassanaraouf/paseo-themes/tree/main/packages/paseo-github-theme#readme",
 	"bugs": {
 		"url": "https://github.com/alhassanaraouf/paseo-themes/issues"
 	},

@@ -1,11 +1,11 @@
-# paseo-github-theme-theme
+# paseo-github-theme
 
 GitHub Theme for [Paseo](https://paseo.sh), ported from the Obsidian theme [`krios2146/obsidian-theme-github`](https://github.com/krios2146/obsidian-theme-github) by krios2146.
 
 ## Install
 
 ```bash
-paseo plugin install npm:@alhassanaraouf/paseo-github-theme-theme
+paseo plugin install npm:@alhassanaraouf/paseo-github-theme
 ```
 
 ## Activate

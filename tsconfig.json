@@ -113,7 +113,7 @@
 			"path": "packages/paseo-gdct-dark-theme"
 		},
 		{
-			"path": "packages/paseo-github-theme-theme"
+			"path": "packages/paseo-github-theme"
 		},
 		{
 			"path": "packages/paseo-gitsidian-theme"
@@ -128,7 +128,7 @@
 			"path": "packages/paseo-hulk-theme"
 		},
 		{
-			"path": "packages/paseo-its-theme-theme"
+			"path": "packages/paseo-its-theme"
 		},
 		{
 			"path": "packages/paseo-kanagawa-theme"

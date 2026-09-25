@@ -50,7 +50,7 @@ extracted from, and extraction notes. All CSS was fetched September 2026.
 
 ## 10. ITS Theme
 - Repo: https://github.com/slrvb/Obsidian--ITS-Theme (author SlRvb, upstream modes: dark, light)
-- npm package `@alhassanaraouf/paseo-its-theme-theme` — dark bg #1a1e24, light bg #f8fbff, accent #863737
+- npm package `@alhassanaraouf/paseo-its-theme` — dark bg #1a1e24, light bg #f8fbff, accent #863737
 - Extraction: direct var() resolution
 
 ## 11. Shimmering Focus
@@ -100,7 +100,7 @@ extracted from, and extraction notes. All CSS was fetched September 2026.
 
 ## 23. GitHub Theme
 - Repo: https://github.com/krios2146/obsidian-theme-github (author krios2146, upstream modes: dark, light)
-- npm package `@alhassanaraouf/paseo-github-theme-theme` — dark bg #0d1117, light bg #ffffff, accent #57a5ff
+- npm package `@alhassanaraouf/paseo-github-theme` — dark bg #0d1117, light bg #ffffff, accent #57a5ff
 - Extraction: direct var() resolution
 
 ## 25. Notation
