@@ -57,7 +57,7 @@ Skipped: Dracula (3 variants), Solarized, Catppuccin and Gruvbox are already on 
 | 7 | Obsidianite | `@alhassanaraouf/paseo-obsidianite-theme` | #100e17 (dark only) | `#0ed2f7` | [preview](packages/paseo-obsidianite-theme/preview.png) |
 | 8 | Wasp | `@alhassanaraouf/paseo-wasp-theme` | #242424 / #faf6f0 | `#f8c537` | [dark](packages/paseo-wasp-theme/preview-dark.png) · [light](packages/paseo-wasp-theme/preview-light.png) |
 | 9 | Typewriter | `@alhassanaraouf/paseo-typewriter-theme` | #262626 / #fcf5e4 | `#6db478` | [dark](packages/paseo-typewriter-theme/preview-dark.png) · [light](packages/paseo-typewriter-theme/preview-light.png) |
-| 10 | ITS Theme | `@alhassanaraouf/paseo-its-theme-theme` | #1a1e24 / #f8fbff | `#652121` | [dark](packages/paseo-its-theme-theme/preview-dark.png) · [light](packages/paseo-its-theme-theme/preview-light.png) |
+| 10 | ITS Theme | `@alhassanaraouf/paseo-its-theme` | #1a1e24 / #f8fbff | `#652121` | [dark](packages/paseo-its-theme/preview-dark.png) · [light](packages/paseo-its-theme/preview-light.png) |
 | 11 | Shimmering Focus | `@alhassanaraouf/paseo-shimmering-focus-theme` | #1a1c23 / #fbfcfd | `#108189` | [dark](packages/paseo-shimmering-focus-theme/preview-dark.png) · [light](packages/paseo-shimmering-focus-theme/preview-light.png) |
 | 12 | Prism | `@alhassanaraouf/paseo-prism-theme` | #481b19 / #fdf7f7 | `#af4841` | [dark](packages/paseo-prism-theme/preview-dark.png) · [light](packages/paseo-prism-theme/preview-light.png) |
 | 13 | Sanctum | `@alhassanaraouf/paseo-sanctum-theme` | #161616 / #f4f4f0 | `#669961` | [dark](packages/paseo-sanctum-theme/preview-dark.png) · [light](packages/paseo-sanctum-theme/preview-light.png) |
@@ -67,7 +67,7 @@ Skipped: Dracula (3 variants), Solarized, Catppuccin and Gruvbox are already on 
 | 17 | Everforest | `@alhassanaraouf/paseo-everforest-theme` | #2f383e / #fdf6e3 | `#569d79` | [dark](packages/paseo-everforest-theme/preview-dark.png) · [light](packages/paseo-everforest-theme/preview-light.png) |
 | 18 | Cybertron | `@alhassanaraouf/paseo-cybertron-theme` | #2f3136 (dark only) | `#fe8019` | [preview](packages/paseo-cybertron-theme/preview.png) |
 | 19 | Willemstad | `@alhassanaraouf/paseo-willemstad-theme` | #070707 / #ffffff | `#483699` | [dark](packages/paseo-willemstad-theme/preview-dark.png) · [light](packages/paseo-willemstad-theme/preview-light.png) |
-| 20 | GitHub Theme | `@alhassanaraouf/paseo-github-theme-theme` | #0d1117 / #ffffff | `#439bff` | [dark](packages/paseo-github-theme-theme/preview-dark.png) · [light](packages/paseo-github-theme-theme/preview-light.png) |
+| 20 | GitHub Theme | `@alhassanaraouf/paseo-github-theme` | #0d1117 / #ffffff | `#439bff` | [dark](packages/paseo-github-theme/preview-dark.png) · [light](packages/paseo-github-theme/preview-light.png) |
 | 21 | Notation | `@alhassanaraouf/paseo-notation-theme` | #2f3437 / #ffffff | `#2eaadc` | [dark](packages/paseo-notation-theme/preview-dark.png) · [light](packages/paseo-notation-theme/preview-light.png) |
 | 22 | Typomagical | `@alhassanaraouf/paseo-typomagical-theme` | #000000 / #eff1f5 | `#89b4fa` | [dark](packages/paseo-typomagical-theme/preview-dark.png) · [light](packages/paseo-typomagical-theme/preview-light.png) |
 | 23 | Terminal | `@alhassanaraouf/paseo-terminal-theme` | #000000 (dark only) | `#000000` | [preview](packages/paseo-terminal-theme/preview.png) |

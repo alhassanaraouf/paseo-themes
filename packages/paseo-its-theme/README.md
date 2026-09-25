@@ -1,11 +1,11 @@
-# paseo-its-theme-theme
+# paseo-its-theme
 
 ITS Theme for [Paseo](https://paseo.sh), ported from the Obsidian theme [`slrvb/Obsidian--ITS-Theme`](https://github.com/slrvb/Obsidian--ITS-Theme) by SlRvb.
 
 ## Install
 
 ```bash
-paseo plugin install npm:@alhassanaraouf/paseo-its-theme-theme
+paseo plugin install npm:@alhassanaraouf/paseo-its-theme
 ```
 
 ## Activate
